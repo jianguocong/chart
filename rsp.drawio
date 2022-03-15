@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T03:42:34.136Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="4kZxt16iR8005O0x_GtH" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T03:49:44.434Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="1a-g1xyn9Z-awTwwlOtX" version="16.6.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -179,20 +179,20 @@
         <mxCell id="oMiTvaC7AODBL7d5hOzX-40" value="上报车况" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="889.5" y="451.9736842105263" width="105" height="46.05263157894737" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-116" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=3;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-116" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=none;arcSize=3;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="725" y="685" width="574" height="81.89" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-111" value="ElasticSearch" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="921" y="710.94" width="40" height="40" as="geometry" />
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-123" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="740" y="690" width="550" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-112" value="redis" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-111" value="ElasticSearch" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="929" y="710.94" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-112" value="redis" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="710.94" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-113" value="MongoDB" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="711.94" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-110" value="MySql" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="800" y="710.94" width="40" height="40" as="geometry" />
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-113" value="MongoDB" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="711.94" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oMiTvaC7AODBL7d5hOzX-117" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=7;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;startWidth=5.5;startSize=4.13;endWidth=5.5;endSize=4.13;width=4;shadow=0;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMiTvaC7AODBL7d5hOzX-116" target="23046e2b9bb16c14-27">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -214,9 +214,6 @@
             <mxPoint x="867" y="640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-123" value="钥匙管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="740" y="690" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oMiTvaC7AODBL7d5hOzX-125" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1410" y="320" width="170" height="380" as="geometry" />
@@ -244,6 +241,9 @@
         </mxCell>
         <mxCell id="oMiTvaC7AODBL7d5hOzX-126" value="重启数字钥匙" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1033.5" y="567.9473684210526" width="105" height="46.05263157894737" as="geometry" />
+        </mxCell>
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-127" value="MySql" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;fillColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;fontSize=11;fontColor=#FFFFFF;labelPosition=center;align=center;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="810" y="710" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
