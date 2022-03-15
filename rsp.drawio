@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T03:26:53.349Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="yh5E3JHBFCPFzfEwRVue" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T03:42:34.136Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="4kZxt16iR8005O0x_GtH" version="16.6.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -108,16 +108,16 @@
         <mxCell id="oMiTvaC7AODBL7d5hOzX-46" value="钥匙管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1020" y="299" width="126" height="331" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-47" value="分享/撤销/过期" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-47" value="下载钥匙" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1031" y="394.7894736842105" width="105" height="46.05263157894737" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-48" value="下载" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-48" value="车控命令" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1031" y="335.8421052631579" width="105" height="46.05263157894737" as="geometry" />
         </mxCell>
         <mxCell id="oMiTvaC7AODBL7d5hOzX-49" value="冻结/解冻" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="451.8157894736842" width="105" height="46.05263157894737" as="geometry" />
         </mxCell>
-        <mxCell id="oMiTvaC7AODBL7d5hOzX-43" value="重启数字钥匙" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-43" value="分享/撤销/过期" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="512.9473684210526" width="105" height="46.05263157894737" as="geometry" />
         </mxCell>
         <mxCell id="oMiTvaC7AODBL7d5hOzX-70" value="成功闭锁通知" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -241,6 +241,9 @@
         </mxCell>
         <mxCell id="oMiTvaC7AODBL7d5hOzX-83" value="&lt;font color=&quot;#ffffff&quot;&gt;APP&lt;/font&gt;" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=#b85450;fillColor=#FFFFFF;shape=mxgraph.azure.mobile;pointerEvents=1;labelPosition=center;" vertex="1" parent="oMiTvaC7AODBL7d5hOzX-87">
           <mxGeometry x="144.8015652173913" y="20.5" width="29.465434782608693" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oMiTvaC7AODBL7d5hOzX-126" value="重启数字钥匙" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1033.5" y="567.9473684210526" width="105" height="46.05263157894737" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
