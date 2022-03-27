@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T03:46:42.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="FTlLNBqnJ2y-k_CclAb2" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T03:51:09.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="xddC4a47t28-eQIMSZSU" version="17.1.3" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="948" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="295" y="458.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-100" value="7、MQTT：实时推送车况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#BFC8DB;" vertex="1" connectable="0" parent="11">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-100" value="7、MQTT：上行实时车况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#BFC8DB;" vertex="1" connectable="0" parent="11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2" y="-14" as="offset" />
           </mxGeometry>
@@ -51,7 +51,7 @@
         <mxCell id="22" value="TSP" style="shadow=1;fillColor=#FFD966;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="449" y="60" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.317;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="22" target="69" edge="1">
+        <mxCell id="23" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.317;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="22" target="69" edge="1">
           <mxGeometry x="614.4878472222224" y="174.99999999999997" width="100" height="100" as="geometry">
             <mxPoint x="674.6527777777778" y="110" as="sourcePoint" />
             <mxPoint x="502" y="320" as="targetPoint" />
@@ -85,7 +85,7 @@
             <mxPoint x="13" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-96" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.417;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24" target="69">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-96" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.415;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24" target="69">
           <mxGeometry x="582.1950694444446" y="165" width="100" height="100" as="geometry">
             <mxPoint x="657.3600000000001" y="110" as="sourcePoint" />
             <mxPoint x="657" y="330" as="targetPoint" />
@@ -187,7 +187,7 @@
         <mxCell id="74" value="4、复用已有MQTT通道&#xa;            （下行车控、上行车况等）" style="fillColor=#BFC8DB" parent="1" vertex="1">
           <mxGeometry x="480" y="206.52" width="200" height="49.48" as="geometry" />
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-121" value="车控" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-121" value="下行车控" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="30" y="131.26" width="760" height="188.74" as="geometry" />
         </mxCell>
         <mxCell id="87" value="单向通信&#xa;小于200ms" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;startArrow=open;endArrow=open;labelPosition=left;align=left;fontSize=9;" parent="1" edge="1">
