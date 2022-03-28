@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T11:10:29.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Ujen36WXkJ-HVtOiLiio" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T12:17:00.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="5TpvJTeaVH0S4QXHIXCR" version="17.1.3" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry y="30" width="1583" height="780" as="geometry" />
         </mxCell>
         <mxCell id="OUz_nzHXEY4qdXHect04-115" value="链路日志" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="36" y="574" width="735" height="90" as="geometry" />
+          <mxGeometry x="36" y="570" width="735" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OUz_nzHXEY4qdXHect04-102" value="透传查询" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="36" y="476" width="735" height="90" as="geometry" />
@@ -237,10 +237,10 @@
             <mxPoint x="300.77" y="700.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-111" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=none;startArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry x="573" y="519.4988734567901" width="100" height="100" as="geometry">
-            <mxPoint x="510" y="620" as="sourcePoint" />
-            <mxPoint x="692.3600000000001" y="620" as="targetPoint" />
+        <mxCell id="OUz_nzHXEY4qdXHect04-111" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=none;startArrow=classic;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="574" y="524.4988734567901" width="100" height="100" as="geometry">
+            <mxPoint x="306" y="615" as="sourcePoint" />
+            <mxPoint x="691" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OUz_nzHXEY4qdXHect04-112" value="11、HTTP：透传车端链路日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-111">
@@ -287,24 +287,21 @@
         <mxCell id="OUz_nzHXEY4qdXHect04-99" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="497" y="503" width="10" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-108" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
-          <mxGeometry x="496" y="611" width="10" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="OUz_nzHXEY4qdXHect04-106" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
-          <mxGeometry x="692.36" y="607" width="10" height="20" as="geometry" />
+          <mxGeometry x="692.36" y="610" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OUz_nzHXEY4qdXHect04-104" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
-          <mxGeometry x="295" y="616" width="10" height="34" as="geometry" />
+          <mxGeometry x="295" y="610" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-113" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=none;startArrow=classic;entryX=0;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OUz_nzHXEY4qdXHect04-108">
-          <mxGeometry x="368" y="519.4988734567901" width="100" height="100" as="geometry">
-            <mxPoint x="305" y="620" as="sourcePoint" />
-            <mxPoint x="487.3600000000001" y="620" as="targetPoint" />
+        <mxCell id="OUz_nzHXEY4qdXHect04-116" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=classic;startArrow=none;dashed=1;exitX=0.9;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;startFill=0;" edge="1" parent="1">
+          <mxGeometry x="381" y="539.5588734567901" width="100" height="100" as="geometry">
+            <mxPoint x="308" y="639" as="sourcePoint" />
+            <mxPoint x="691" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-114" value="12、KAFKA：透传车端链路日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-113">
+        <mxCell id="OUz_nzHXEY4qdXHect04-117" value="返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" y="-10" as="offset" />
+            <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
