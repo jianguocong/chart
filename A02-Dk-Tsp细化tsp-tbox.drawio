@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T06:30:28.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="2y1Z8H523y5K-sqjh86D" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T06:32:18.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="BfE9O1B4ufO3m2I6tI2M" version="17.1.3" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="948" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="OUz_nzHXEY4qdXHect04-102" value="透传查询" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="36" y="476" width="735" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-124" value="实时日志" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-124" value="实时告警" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="35" y="361" width="735" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LP91aPNowKj5EOJhhBp3-121" value="下行设置" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
             <mxPoint x="295" y="442.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-100" value="9、MQTT：上行实时日志数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#BFC8DB;" parent="11" vertex="1" connectable="0">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-100" value="9、MQTT：上行实时告警数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#BFC8DB;" parent="11" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2" y="-14" as="offset" />
           </mxGeometry>
@@ -137,7 +137,7 @@
             <mxPoint x="495" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-118" value="7’、HTTP：透传上行日志数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-117" vertex="1" connectable="0">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-118" value="7’、HTTP：透传上行告警数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-117" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11" y="-12" as="offset" />
           </mxGeometry>
@@ -181,7 +181,7 @@
             <mxPoint x="655" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-103" value="6’、HTTP：透传上行日志数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-74">
+        <mxCell id="OUz_nzHXEY4qdXHect04-103" value="6’、HTTP：透传上行告警数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-74">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-10" as="offset" />
           </mxGeometry>
