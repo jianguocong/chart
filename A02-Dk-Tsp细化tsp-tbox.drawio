@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T06:02:01.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Mx_3jye8zG3JH5S65lfV" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T06:30:28.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="2y1Z8H523y5K-sqjh86D" version="17.1.3" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="948" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,10 +7,13 @@
         <mxCell id="69" value="" style="fillColor=#DEE8FF;strokeColor=none" parent="1" vertex="1">
           <mxGeometry y="30" width="1583" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-124" value="实时车况" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
+        <mxCell id="OUz_nzHXEY4qdXHect04-102" value="透传查询" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="36" y="476" width="735" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LP91aPNowKj5EOJhhBp3-124" value="实时日志" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="35" y="361" width="735" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-121" value="下行车控" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-121" value="下行设置" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="36" y="130" width="734" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7" value="DK-Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
@@ -25,7 +28,7 @@
         <mxCell id="6" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="295" y="150" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="1、HTTP：发送车控命令" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;entryX=0.05;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="9" value="1、HTTP：车辆参数设置" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;entryX=0.05;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="220" y="78" width="100" height="100" as="geometry">
             <mxPoint x="130" y="160" as="sourcePoint" />
             <mxPoint x="295.5" y="160.64999999999998" as="targetPoint" />
@@ -43,7 +46,7 @@
             <mxPoint x="295" y="442.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-100" value="9、MQTT：上行实时车况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#BFC8DB;" parent="11" vertex="1" connectable="0">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-100" value="9、MQTT：上行实时日志数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#BFC8DB;" parent="11" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2" y="-14" as="offset" />
           </mxGeometry>
@@ -66,7 +69,7 @@
         <mxCell id="24" value="TBOX" style="shadow=1;fillColor=#FFD966;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="644.86" y="63" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="34" value="2、HTTP：透传下行命令" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0.3;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="34" value="2、HTTP：透传下行参数设置" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0.3;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
             <mxPoint x="307" y="172.01" as="sourcePoint" />
             <mxPoint x="497" y="172.961" as="targetPoint" />
@@ -80,7 +83,7 @@
             <mxPoint x="495" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-94" value="7、HTTP：透传上行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-93" vertex="1" connectable="0">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-94" value="7、HTTP：透传上行设置参数响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-93" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="13" y="-9" as="offset" />
           </mxGeometry>
@@ -91,7 +94,7 @@
             <mxPoint x="294.66999999999996" y="321.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-105" value="8、HTTP：返回车控应答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-104" vertex="1" connectable="0">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-105" value="8、HTTP：返回参数设置响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-104" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5" y="-12" as="offset" />
           </mxGeometry>
@@ -134,7 +137,7 @@
             <mxPoint x="495" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LP91aPNowKj5EOJhhBp3-118" value="7’、HTTP：透传上行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-117" vertex="1" connectable="0">
+        <mxCell id="LP91aPNowKj5EOJhhBp3-118" value="7’、HTTP：透传上行日志数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LP91aPNowKj5EOJhhBp3-117" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11" y="-12" as="offset" />
           </mxGeometry>
@@ -178,12 +181,12 @@
             <mxPoint x="655" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-75" value="6’、MQTT：透传上行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-74">
+        <mxCell id="OUz_nzHXEY4qdXHect04-103" value="6’、HTTP：透传上行日志数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OUz_nzHXEY4qdXHect04-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" y="-12" as="offset" />
+            <mxPoint x="1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-76" value="3、MQTT：透传下行命令" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OUz_nzHXEY4qdXHect04-82">
+        <mxCell id="OUz_nzHXEY4qdXHect04-76" value="3、MQTT：透传下行参数设置" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OUz_nzHXEY4qdXHect04-82">
           <mxGeometry y="-11" width="100" height="100" as="geometry">
             <mxPoint x="510" y="180" as="sourcePoint" />
             <mxPoint x="653" y="179.9609999999999" as="targetPoint" />
@@ -214,7 +217,7 @@
         <mxCell id="OUz_nzHXEY4qdXHect04-84" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="496" y="272" width="10" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-85" value="6、MQTT：透传上行数据" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="OUz_nzHXEY4qdXHect04-86">
+        <mxCell id="OUz_nzHXEY4qdXHect04-85" value="6、MQTT：透传上行设置参数响应" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="OUz_nzHXEY4qdXHect04-86">
           <mxGeometry x="-2" y="68" width="100" height="100" as="geometry">
             <mxPoint x="508" y="280" as="sourcePoint" />
             <mxPoint x="651" y="279.9609999999999" as="targetPoint" />
@@ -242,12 +245,12 @@
         <mxCell id="OUz_nzHXEY4qdXHect04-97" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="295" y="496" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-98" value="10、HTTP：查询消息id流转情况" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0.3;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-2" y="337.99" width="100" height="100" as="geometry">
-            <mxPoint x="305" y="509.9999999999999" as="sourcePoint" />
-            <mxPoint x="495" y="510.9509999999999" as="targetPoint" />
+        <mxCell id="OUz_nzHXEY4qdXHect04-98" value="10、HTTP：查询透传消息id的流转情况" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;entryX=0.3;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" as="geometry">
+            <mxPoint x="309" y="509.9999999999999" as="sourcePoint" />
+            <mxPoint x="499" y="510.9509999999999" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="-2" as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OUz_nzHXEY4qdXHect04-99" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
@@ -263,9 +266,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OUz_nzHXEY4qdXHect04-102" value="流转查询" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#BFC8DB;fontSize=9;fillColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="35" y="482" width="735" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
