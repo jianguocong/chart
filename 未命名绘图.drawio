@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T09:50:18.336Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="1im0R_AAoPRxU2_qUwu1" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T09:51:56.030Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="1NSwEgKbNBpSx5Y5pmGL" version="20.2.7" type="github">
   <diagram id="y-8d7s2m_3A8iTxBCaHQ" name="第 1 页">
-    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="209" y="430" width="536" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="328" y="243" width="300" height="60" as="geometry" />
+          <mxGeometry x="343.02000000000004" y="243" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="239" y="708" width="361" height="61" as="geometry" />
@@ -73,12 +73,9 @@
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-46" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="462" y="346" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Il4r_xvN1UmDkrC7rbbu-47" value="入网公网IP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="379" y="263" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Il4r_xvN1UmDkrC7rbbu-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" source="Il4r_xvN1UmDkrC7rbbu-47" target="Il4r_xvN1UmDkrC7rbbu-46">
+        <mxCell id="Il4r_xvN1UmDkrC7rbbu-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" target="Il4r_xvN1UmDkrC7rbbu-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="564.78" as="sourcePoint" />
+            <mxPoint x="414" y="283" as="sourcePoint" />
             <mxPoint x="-30" y="564.7099999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -97,10 +94,10 @@
             <mxPoint x="183" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Il4r_xvN1UmDkrC7rbbu-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;" edge="1" parent="1" source="Il4r_xvN1UmDkrC7rbbu-33" target="Il4r_xvN1UmDkrC7rbbu-47">
+        <mxCell id="Il4r_xvN1UmDkrC7rbbu-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;" edge="1" parent="1" source="Il4r_xvN1UmDkrC7rbbu-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="271" as="sourcePoint" />
-            <mxPoint x="106.00999999999999" y="350" as="targetPoint" />
+            <mxPoint x="414" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-56" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;exitX=0.394;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Il4r_xvN1UmDkrC7rbbu-6">
@@ -219,6 +216,9 @@
             <mxPoint x="676.184" y="680" as="sourcePoint" />
             <mxPoint x="676.0000000000002" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Il4r_xvN1UmDkrC7rbbu-98" value="入网公网IP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="379" y="263" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
