@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T15:20:33.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="QvbTz1Igxwdonn6CwO-b" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T15:22:13.978Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="HvHqQ9c7fgpQwodZayBH" version="20.2.7" type="github">
   <diagram id="y-8d7s2m_3A8iTxBCaHQ" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,13 +250,13 @@
           <mxGeometry x="410" y="130" width="440" height="59.25" as="geometry" />
         </mxCell>
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-108" value="Apple Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="423" y="159.25" width="96" height="20" as="geometry" />
+          <mxGeometry x="478" y="159.25" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RyvJBHffLk_NA9ZkUR7R-4" value="充电桩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="531" y="159.25" width="70" height="20" as="geometry" />
+          <mxGeometry x="586" y="159.25" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RyvJBHffLk_NA9ZkUR7R-5" value="换电桩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="614" y="159.25" width="70" height="20" as="geometry" />
+          <mxGeometry x="669" y="159.25" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RyvJBHffLk_NA9ZkUR7R-6" value="外部系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="435" y="127.5" width="66" height="20" as="geometry" />
@@ -286,10 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ONFPwsBDpeyf4wRMXKmU-9" value="硬件厂商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="693" y="159.25" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ONFPwsBDpeyf4wRMXKmU-13" value="诊断仪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="778" y="159.25" width="60" height="20" as="geometry" />
+          <mxGeometry x="748" y="159.25" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ONFPwsBDpeyf4wRMXKmU-14" value="MES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="889.5" y="602" width="60" height="20" as="geometry" />
