@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T10:34:45.325Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="p18LM08usmxNrJKoVgEE" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T10:34:59.025Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="hiueqnbIQjfnDU-Y_Df8" version="20.2.7" type="github">
   <diagram id="y-8d7s2m_3A8iTxBCaHQ" name="第 1 页">
     <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="873" y="359.5" width="87" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="Il4r_xvN1UmDkrC7rbbu-34" value="国汽智联PKI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="387" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Il4r_xvN1UmDkrC7rbbu-40" value="银基TKE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="872.9999999999999" y="361" width="58" height="20" as="geometry" />
@@ -273,9 +270,18 @@
         <mxCell id="RyvJBHffLk_NA9ZkUR7R-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;DK-Server&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="191" y="413" width="66" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ONFPwsBDpeyf4wRMXKmU-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1">
+        <mxCell id="ONFPwsBDpeyf4wRMXKmU-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;startArrow=none;" edge="1" parent="1" source="Il4r_xvN1UmDkrC7rbbu-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="400.16" as="sourcePoint" />
+            <mxPoint x="1040" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Il4r_xvN1UmDkrC7rbbu-34" value="国汽智联PKI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="388" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ONFPwsBDpeyf4wRMXKmU-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;" edge="1" parent="1" target="Il4r_xvN1UmDkrC7rbbu-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="400.1600000000001" as="sourcePoint" />
             <mxPoint x="1040" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
