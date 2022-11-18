@@ -1,6 +1,6 @@
-<mxfile modified="2022-11-18T06:23:44.620Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Xd9Xgc_FjOW6xSg0Ser0" version="20.4.1" type="github">
+<mxfile modified="2022-11-18T07:07:22.878Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="niNGLAxD1oGTYwLvMrZE" version="20.4.1" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="3231" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="-58" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XYQatNw1aIijDcf5BP1H-9" value="周慧" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="680" width="80" height="80" as="geometry" />
+          <mxGeometry x="373.5" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XYQatNw1aIijDcf5BP1H-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYQatNw1aIijDcf5BP1H-9" target="XYQatNw1aIijDcf5BP1H-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,10 +55,10 @@
         <mxCell id="XYQatNw1aIijDcf5BP1H-12" value="周怡" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XYQatNw1aIijDcf5BP1H-13" value="开发有限公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XYQatNw1aIijDcf5BP1H-13" value="开发有限公司" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="22" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XYQatNw1aIijDcf5BP1H-14" value="经营管理有限公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XYQatNw1aIijDcf5BP1H-14" value="经营管理有限公司" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XYQatNw1aIijDcf5BP1H-15" value="上海芃凯贸易有限公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -113,6 +113,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XYQatNw1aIijDcf5BP1H-27" value="历史监事" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XYQatNw1aIijDcf5BP1H-26">
+          <mxGeometry x="0.0857" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYQatNw1aIijDcf5BP1H-28" value="海南香都进出口贸易有限责任公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYQatNw1aIijDcf5BP1H-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYQatNw1aIijDcf5BP1H-28" target="XYQatNw1aIijDcf5BP1H-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="550" as="sourcePoint" />
+            <mxPoint x="-180" y="690" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYQatNw1aIijDcf5BP1H-30" value="法人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XYQatNw1aIijDcf5BP1H-29">
+          <mxGeometry x="0.0857" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYQatNw1aIijDcf5BP1H-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYQatNw1aIijDcf5BP1H-28" target="XYQatNw1aIijDcf5BP1H-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="550" as="sourcePoint" />
+            <mxPoint x="-270" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="360" />
+              <mxPoint x="414" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYQatNw1aIijDcf5BP1H-32" value="监事" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XYQatNw1aIijDcf5BP1H-31">
           <mxGeometry x="0.0857" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
