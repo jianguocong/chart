@@ -205,7 +205,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlolENBASXnC9q6rWEca-34" value="车主过户" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="WlolENBASXnC9q6rWEca-34" value="车主解绑" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-440" y="522" width="1230" height="440" as="geometry" />
         </mxCell>
         <mxCell id="WlolENBASXnC9q6rWEca-35" value="返回钥匙" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="WlolENBASXnC9q6rWEca-6">
