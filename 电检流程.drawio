@@ -263,7 +263,7 @@
             <mxPoint x="116" y="789" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Os20RsgYe2a4jPq89aU4-64" value="周期：每10分钟批量获取sn、vin关系数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Os20RsgYe2a4jPq89aU4-63">
+        <mxCell id="Os20RsgYe2a4jPq89aU4-64" value="周期：每10分钟&lt;div&gt;批量获取sn、vin关系数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Os20RsgYe2a4jPq89aU4-63">
           <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
             <mxPoint x="23" as="offset" />
           </mxGeometry>
