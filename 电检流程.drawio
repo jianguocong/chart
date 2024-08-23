@@ -196,7 +196,7 @@
             <mxPoint x="603" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Os20RsgYe2a4jPq89aU4-15" value="持续返回电检结果、以及最终结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Os20RsgYe2a4jPq89aU4-15" value="持续返回电检分步结果、以及最终结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="591" as="targetPoint" />
             <Array as="points" />
