@@ -8,7 +8,7 @@
           <mxGeometry x="323" y="90" width="100" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-1">
-          <mxGeometry x="45" y="90" width="10" height="121" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-1">
           <mxGeometry x="45" y="880" width="10" height="91" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="559" y="90" width="100" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-3">
-          <mxGeometry x="45" y="80" width="10" height="140" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-3">
           <mxGeometry x="45" y="880" width="10" height="90" as="geometry" />
@@ -35,10 +35,10 @@
         <mxCell id="gpkOcdaulj_0mZSpDFni-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-12">
           <mxGeometry x="65" y="880" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gpkOcdaulj_0mZSpDFni-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="gpkOcdaulj_0mZSpDFni-28">
+        <mxCell id="gpkOcdaulj_0mZSpDFni-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="300" as="sourcePoint" />
-            <mxPoint x="845" y="300" as="targetPoint" />
+            <mxPoint x="620" y="265" as="sourcePoint" />
+            <mxPoint x="855" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-37" value="钥匙信息、协商密钥、加密通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gpkOcdaulj_0mZSpDFni-22">
@@ -59,17 +59,17 @@
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-27" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="604" y="280" as="targetPoint" />
+            <mxPoint x="604" y="247" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="378" y="280" as="sourcePoint" />
+            <mxPoint x="378" y="247" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="855" y="155" width="10" height="765" as="geometry" />
         </mxCell>
-        <mxCell id="gpkOcdaulj_0mZSpDFni-29" value="查询钥匙" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
+        <mxCell id="gpkOcdaulj_0mZSpDFni-29" value="查询钥匙" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="210" as="sourcePoint" />
+            <mxPoint x="600" y="210" as="sourcePoint" />
             <Array as="points" />
             <mxPoint x="380" y="210" as="targetPoint" />
           </mxGeometry>
