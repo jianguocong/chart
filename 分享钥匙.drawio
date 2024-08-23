@@ -196,7 +196,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-48" value="下载dk" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-48" value="下载分享钥匙" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-440" y="381" width="1230" height="440" as="geometry" />
         </mxCell>
         <mxCell id="fJ_9bbSh1yOLhhSjH3SS-49" value="返回钥匙" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="fJ_9bbSh1yOLhhSjH3SS-31">
