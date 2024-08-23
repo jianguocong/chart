@@ -126,7 +126,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlolENBASXnC9q6rWEca-48" value="撤销当前用户下所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="WlolENBASXnC9q6rWEca-48" value="标记删除当前用户下所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="609" y="330" as="sourcePoint" />
             <Array as="points">
