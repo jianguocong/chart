@@ -370,7 +370,7 @@
         <mxCell id="QH9AOdgC8zUdyQS9NOri-109" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="595" y="1140" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QH9AOdgC8zUdyQS9NOri-110" value="删除车内所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="QH9AOdgC8zUdyQS9NOri-110" value="标记删除车内所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="605" y="1169" as="sourcePoint" />
             <Array as="points">
