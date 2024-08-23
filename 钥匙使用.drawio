@@ -17,7 +17,7 @@
           <mxGeometry x="559" y="90" width="100" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-3">
-          <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-3">
           <mxGeometry x="45" y="880" width="10" height="90" as="geometry" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="855" y="155" width="10" height="765" as="geometry" />
+          <mxGeometry x="855" y="170" width="10" height="750" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-29" value="查询钥匙" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -119,19 +119,8 @@
         <mxCell id="gpkOcdaulj_0mZSpDFni-39" value="预钥匙使用" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="249" y="800" width="880" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="gpkOcdaulj_0mZSpDFni-46" value="安全通道业务" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1010" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="380" y="1010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gpkOcdaulj_0mZSpDFni-47" value="安全通道业务" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1" source="gpkOcdaulj_0mZSpDFni-12" target="gpkOcdaulj_0mZSpDFni-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="980" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="620" y="980" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gpkOcdaulj_0mZSpDFni-49" value="数字钥匙的使用" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="986" width="880" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
