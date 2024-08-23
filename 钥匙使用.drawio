@@ -120,7 +120,7 @@
           <mxGeometry x="249" y="800" width="880" height="128" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-49" value="数字钥匙的使用" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="986" width="880" height="50" as="geometry" />
+          <mxGeometry x="250" y="980" width="880" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
