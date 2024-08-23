@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gpkOcdaulj_0mZSpDFni-1" value="SE-SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="323" y="90" width="100" height="1010" as="geometry" />
+          <mxGeometry x="323" y="90" width="100" height="810" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-1">
           <mxGeometry x="45" y="100" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-1">
-          <mxGeometry x="45" y="880" width="10" height="91" as="geometry" />
+          <mxGeometry x="45" y="695" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-3" value="SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="559" y="90" width="100" height="1010" as="geometry" />
+          <mxGeometry x="559" y="90" width="100" height="810" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="gpkOcdaulj_0mZSpDFni-3">
-          <mxGeometry x="45" y="90" width="10" height="880" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="700" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-5" value="蓝牙建立链接" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1" source="gpkOcdaulj_0mZSpDFni-28">
           <mxGeometry relative="1" as="geometry">
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-12" value="Vehicle" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="790" y="90" width="140" height="1010" as="geometry" />
+          <mxGeometry x="790" y="90" width="140" height="810" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -40,14 +40,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gpkOcdaulj_0mZSpDFni-24" value="&lt;div&gt;0、检测当前钥匙状态是否正常&lt;/div&gt;&lt;div&gt;1、不存在则保存车主钥匙&lt;/div&gt;2、删除所有预钥匙&lt;div&gt;3、标记删除老车主钥匙&lt;/div&gt;&lt;div&gt;4、标记删除老车主授权的所有钥匙&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="gpkOcdaulj_0mZSpDFni-28" target="gpkOcdaulj_0mZSpDFni-28">
+        <mxCell id="gpkOcdaulj_0mZSpDFni-24" value="&lt;div&gt;0、检测当前钥匙状态是否正常&lt;/div&gt;&lt;div&gt;1、不存在则保存车主钥匙&lt;/div&gt;2、删除所有预钥匙&lt;div&gt;3、标记删除老车主钥匙&lt;/div&gt;&lt;div&gt;4、标记删除老车主授权的所有钥匙&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry x="0.1176" relative="1" as="geometry">
-            <mxPoint x="865" y="360" as="sourcePoint" />
+            <mxPoint x="865" y="292" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="900" y="340" />
-              <mxPoint x="900" y="420" />
+              <mxPoint x="900" y="292" />
+              <mxPoint x="900" y="372" />
             </Array>
-            <mxPoint x="865" y="390" as="targetPoint" />
+            <mxPoint x="865" y="372" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="855" y="170" width="10" height="890" as="geometry" />
+          <mxGeometry x="855" y="170" width="10" height="710" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-29" value="查询钥匙" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -69,52 +69,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-18" value="车主钥匙检测" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="880" height="140" as="geometry" />
+          <mxGeometry x="250" y="280" width="880" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gpkOcdaulj_0mZSpDFni-33" value="&lt;div&gt;0、检测当前钥匙状态是否正常&lt;/div&gt;&lt;div&gt;1、不存在则保存钥匙&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="gpkOcdaulj_0mZSpDFni-28">
+        <mxCell id="gpkOcdaulj_0mZSpDFni-33" value="&lt;div&gt;0、检测当前钥匙状态是否正常&lt;/div&gt;&lt;div&gt;1、不存在则保存钥匙&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry x="0.1176" relative="1" as="geometry">
-            <mxPoint x="864" y="537" as="sourcePoint" />
+            <mxPoint x="865" y="413" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="899" y="517" />
-              <mxPoint x="899" y="597" />
+              <mxPoint x="899" y="413" />
+              <mxPoint x="899" y="493" />
             </Array>
-            <mxPoint x="864" y="597" as="targetPoint" />
+            <mxPoint x="864" y="493" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-34" value="家庭钥匙检测" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="249" y="489" width="880" height="140" as="geometry" />
+          <mxGeometry x="249" y="395" width="880" height="115" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-35" value="&lt;div&gt;0、检测当前钥匙状态是否正常&lt;/div&gt;&lt;div&gt;1、不存在则保存钥匙&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry x="0.1176" relative="1" as="geometry">
-            <mxPoint x="865" y="672" as="sourcePoint" />
+            <mxPoint x="865" y="541" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="899" y="672" />
-              <mxPoint x="899" y="752" />
+              <mxPoint x="899" y="541" />
+              <mxPoint x="899" y="621" />
             </Array>
-            <mxPoint x="864" y="752" as="targetPoint" />
+            <mxPoint x="864" y="621" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-36" value="分享钥匙检测" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="249" y="652" width="880" height="128" as="geometry" />
+          <mxGeometry x="249" y="526" width="880" height="114" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-38" value="&lt;div&gt;0、检测当前钥匙状态是否正常&lt;/div&gt;&lt;div&gt;1、检测是否有有效车主钥匙&lt;/div&gt;&lt;div&gt;2、不存在则保存钥匙&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry x="0.1176" relative="1" as="geometry">
-            <mxPoint x="865" y="820" as="sourcePoint" />
+            <mxPoint x="865" y="673" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="899" y="820" />
-              <mxPoint x="899" y="900" />
+              <mxPoint x="899" y="673" />
+              <mxPoint x="899" y="753" />
             </Array>
-            <mxPoint x="864" y="900" as="targetPoint" />
+            <mxPoint x="864" y="753" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-39" value="预钥匙检测" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="249" y="800" width="880" height="128" as="geometry" />
+          <mxGeometry x="249" y="658" width="880" height="112" as="geometry" />
         </mxCell>
         <mxCell id="gpkOcdaulj_0mZSpDFni-49" value="数字钥匙的使用" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="980" width="880" height="70" as="geometry" />
+          <mxGeometry x="250" y="795" width="880" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
