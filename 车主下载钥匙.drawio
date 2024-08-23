@@ -80,7 +80,7 @@
           <mxGeometry x="290" y="40" width="140" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="QH9AOdgC8zUdyQS9NOri-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QH9AOdgC8zUdyQS9NOri-16">
-          <mxGeometry x="65" y="682" width="10" height="120" as="geometry" />
+          <mxGeometry x="65" y="682" width="10" height="58" as="geometry" />
         </mxCell>
         <mxCell id="QH9AOdgC8zUdyQS9NOri-18" value="删除车主所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="QH9AOdgC8zUdyQS9NOri-16">
           <mxGeometry relative="1" as="geometry">
