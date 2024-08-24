@@ -230,7 +230,7 @@
             <mxPoint x="595" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QH9AOdgC8zUdyQS9NOri-108" value="车主解绑请求，钥匙白名单下车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QH9AOdgC8zUdyQS9NOri-107">
+        <mxCell id="QH9AOdgC8zUdyQS9NOri-108" value="车主解绑（钥匙白名单）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QH9AOdgC8zUdyQS9NOri-107">
           <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -268,7 +268,7 @@
             <mxPoint x="580" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QH9AOdgC8zUdyQS9NOri-117" value="下载车主钥匙、白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QH9AOdgC8zUdyQS9NOri-116">
+        <mxCell id="QH9AOdgC8zUdyQS9NOri-117" value="下载钥匙（钥匙白名单）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QH9AOdgC8zUdyQS9NOri-116">
           <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
