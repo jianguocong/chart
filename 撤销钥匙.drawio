@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="pRwHNNlRCIsjpIY2URZG">
-    <mxGraphModel dx="2536" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2988" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,12 +121,12 @@
             <mxPoint x="595" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlolENBASXnC9q6rWEca-46" value="撤销分享钥匙请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WlolENBASXnC9q6rWEca-45">
+        <mxCell id="WlolENBASXnC9q6rWEca-46" value="撤销分享钥匙（钥匙白名单）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WlolENBASXnC9q6rWEca-45">
           <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlolENBASXnC9q6rWEca-48" value="标记删除当前用户下所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="WlolENBASXnC9q6rWEca-48" value="更新车内白名单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="609" y="330" as="sourcePoint" />
             <Array as="points">
@@ -217,12 +217,12 @@
             <mxPoint x="594" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlolENBASXnC9q6rWEca-69" value="撤销分享钥匙请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WlolENBASXnC9q6rWEca-68">
+        <mxCell id="WlolENBASXnC9q6rWEca-69" value="撤销分享钥匙请求（钥匙白名单）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WlolENBASXnC9q6rWEca-68">
           <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlolENBASXnC9q6rWEca-70" value="标记删除当前用户下所有钥匙" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="WlolENBASXnC9q6rWEca-70" value="更新车内白名单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="608" y="682" as="sourcePoint" />
             <Array as="points">
