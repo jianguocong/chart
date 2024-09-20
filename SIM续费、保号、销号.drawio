@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="第 1 页" id="Y2cfiwyhvstEtxT1_A8s">
+    <mxGraphModel dx="2536" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Os20RsgYe2a4jPq89aU4-10" value="移动云平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="140" y="42" width="122" height="648" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-6" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-95" y="42" width="125" height="678" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="DhiFU4VPr3CxJKBpV4ug-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-214" y="489.1700000000001" as="sourcePoint" />
+            <mxPoint x="285" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-49" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;api: 批量查询预保号、保号状态的sim的真实状态&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhiFU4VPr3CxJKBpV4ug-48">
+          <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DhiFU4VPr3CxJKBpV4ug-6">
+          <mxGeometry x="292" y="483" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-51" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="DhiFU4VPr3CxJKBpV4ug-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-215" y="530.3299999999999" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="285" y="531" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DhiFU4VPr3CxJKBpV4ug-6">
+          <mxGeometry x="57" y="539" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="DhiFU4VPr3CxJKBpV4ug-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-212" y="559.1700000000001" as="sourcePoint" />
+            <mxPoint x="58" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;更新数据库&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhiFU4VPr3CxJKBpV4ug-53">
+          <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhiFU4VPr3CxJKBpV4ug-53">
+          <mxGeometry x="-0.0116" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-55" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="DhiFU4VPr3CxJKBpV4ug-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-212" y="599.3299999999999" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="58" y="599" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Os20RsgYe2a4jPq89aU4-4" value="管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-370" y="42" width="100" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Os20RsgYe2a4jPq89aU4-4">
+          <mxGeometry x="45" y="61" width="10" height="719" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-28" value="定时任务：&lt;br&gt;时间：每天凌晨3点&lt;br&gt;动作：sim保号、sim销号" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="Os20RsgYe2a4jPq89aU4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="57" y="71" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="87" y="71" />
+              <mxPoint x="87" y="131" />
+            </Array>
+            <mxPoint x="55" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Os20RsgYe2a4jPq89aU4-68" value="获取卡状态" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-441" y="431" width="730" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-58" value="当前sim已经到期 并且&lt;br&gt;sim有效期 &amp;gt; 会员有效期的数据&amp;nbsp;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-313" y="202" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-283" y="202" />
+              <mxPoint x="-283" y="250" />
+              <mxPoint x="-315" y="250" />
+            </Array>
+            <mxPoint x="-315" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-67" value="保号流程" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-441" y="184" width="730" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-39" y="262" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-312" y="282.1700000000001" as="sourcePoint" />
+            <mxPoint x="-42" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-77" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;更改sim卡为【&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;预保号&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;】状态&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhiFU4VPr3CxJKBpV4ug-76">
+          <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-78" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-312" y="321.3299999999999" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-42" y="321" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhiFU4VPr3CxJKBpV4ug-79" value="&lt;div&gt;&lt;div&gt;人工导出需要保号的数据到Excel中；&lt;/div&gt;&lt;/div&gt;&lt;div&gt;或邮件？ Excel格式？需要进一步与沟通需求&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-313" y="349" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-283" y="349" />
+              <mxPoint x="-283" y="397" />
+              <mxPoint x="-315" y="397" />
+            </Array>
+            <mxPoint x="-315" y="397" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

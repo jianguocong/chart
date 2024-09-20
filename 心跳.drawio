@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="第 1 页" id="HLP3MT9LLrLZm3aDhicc">
-    <mxGraphModel dx="2706" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2536" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,8 +62,8 @@
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="268" as="sourcePoint" />
-            <mxPoint x="280" y="268" as="targetPoint" />
+            <mxPoint x="55" y="217" as="sourcePoint" />
+            <mxPoint x="280" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-38" value="下发vehicleTime, serverTime" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LrZ61WwTFHnkXpF8pCKX-37" vertex="1" connectable="0">
@@ -90,8 +90,8 @@
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="275" y="305" as="sourcePoint" />
-            <mxPoint x="55" y="305" as="targetPoint" />
+            <mxPoint x="275" y="254" as="sourcePoint" />
+            <mxPoint x="55" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-52" value="上报serverTime" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LrZ61WwTFHnkXpF8pCKX-51" vertex="1" connectable="0">
@@ -101,12 +101,12 @@
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-53" value="车辆根据serverTime进行RTC时钟校准" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="270" as="sourcePoint" />
+            <mxPoint x="290" y="219" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="320" y="270" />
-              <mxPoint x="320" y="300" />
+              <mxPoint x="320" y="219" />
+              <mxPoint x="320" y="249" />
             </Array>
-            <mxPoint x="290" y="300" as="targetPoint" />
+            <mxPoint x="290" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-54" value="来回通信延迟 RTT =&amp;nbsp; 当前时间 - serverTime" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
@@ -141,12 +141,12 @@
         </mxCell>
         <mxCell id="LrZ61WwTFHnkXpF8pCKX-57" value="设置车辆在线状态，&lt;div&gt;超时 180s * 2 设置为下线&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="211" as="sourcePoint" />
+            <mxPoint x="50" y="282" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="211" />
-              <mxPoint x="80" y="241" />
+              <mxPoint x="80" y="282" />
+              <mxPoint x="80" y="312" />
             </Array>
-            <mxPoint x="50" y="241" as="targetPoint" />
+            <mxPoint x="50" y="312" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
