@@ -1,0 +1,347 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="第 1 页" id="_HwajRiNFtwBDf4wMEr2">
+    <mxGraphModel dx="2387" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-1" value="车辆蓝牙模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-541" y="41" width="100" height="1019" as="geometry" />
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="-O52o67HVaWZJBNa8ZWJ-1" vertex="1">
+          <mxGeometry x="45" y="83" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-O52o67HVaWZJBNa8ZWJ-1">
+          <mxGeometry x="45" y="368" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-57" value="VehicleOEM-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-63" y="41" width="140" height="1019" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-57">
+          <mxGeometry x="65" y="173" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-57">
+          <mxGeometry x="65" y="351" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-57">
+          <mxGeometry x="65" y="587" width="10" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-20" value="运输模式定时任务" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-666" y="113" width="1016" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-51" value="车辆4G模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-272" y="40" width="102" height="1019" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry x="45" y="123" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry x="45" y="591" width="10" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry x="45" y="351" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry x="45" y="839" width="10" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry x="274" y="828" width="10" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry x="-224" y="848" width="10" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="844" as="sourcePoint" />
+            <mxPoint x="504" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-39" value="11、进入运输模式指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-38">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-40" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="851" as="sourcePoint" />
+            <mxPoint x="269" y="851" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-41" value="12、进入运输模式指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-40">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-208" y="861" as="sourcePoint" />
+            <mxPoint x="41" y="861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-43" value="13、进入运输模式指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-42">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-44" value="14、进入运输模式" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-209" y="888" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-179" y="888" />
+              <mxPoint x="-179" y="918" />
+            </Array>
+            <mxPoint x="-209" y="918" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-45" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-203" y="947" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="39.5" y="947" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-46" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="956" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="269" y="956" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-59" value="OTA-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="167" y="41" width="140" height="1019" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-59">
+          <mxGeometry x="65" y="173" width="10" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-59">
+          <mxGeometry x="60" y="188" width="10" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-69" value="1、定时器：24小时给4G模块上电" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-481" y="133" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-451" y="133" />
+              <mxPoint x="-451" y="163" />
+            </Array>
+            <mxPoint x="-481" y="163" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="193" as="sourcePoint" />
+            <mxPoint x="-230" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-8" value="2、运输模式下蓝牙周期上报运输状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="-O52o67HVaWZJBNa8ZWJ-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-10" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-216" y="283" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint y="283" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="401" as="sourcePoint" />
+            <mxPoint x="230" y="401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-3" value="6、让车辆进入退出运输模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-2">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="233" as="sourcePoint" />
+            <mxPoint y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-6" value="3、运输模式下请求ota" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-5">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="16" y="243" as="sourcePoint" />
+            <mxPoint x="223" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-9" value="4、运输模式下请求ota" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-8">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-11" value="5、异步线程：查询当前运输模式下的ota信息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="246" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="276" y="360" />
+              <mxPoint x="276" y="390" />
+            </Array>
+            <mxPoint x="246" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="414" as="sourcePoint" />
+            <mxPoint y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-13" value="7、退出运输模式指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-12">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="423" as="sourcePoint" />
+            <mxPoint x="-231" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-15" value="8、退出运输模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-14">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="16" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-17" value="9、退出运输模式" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-481" y="451" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-451" y="451" />
+              <mxPoint x="-451" y="481" />
+            </Array>
+            <mxPoint x="-481" y="481" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-19" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-211" y="538" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-3" y="538" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-21" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="551" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="233" y="551" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-22" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14" y="273" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="224" y="273" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="662" as="sourcePoint" />
+            <mxPoint x="230" y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-25" value="ota流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-24">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="662" as="sourcePoint" />
+            <mxPoint y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-28" value="ota流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-27">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-33" value="退出运输模式" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-666" y="343" width="1016" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-34" value="子流程：参考原ota" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="595" width="1018" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-48" value="10、进入运输模式条件，以下满足以下任一条件即可：&lt;br&gt;a)、oat成功后，并检测最后退出运输模式是云端发送的指令&lt;div&gt;b)、ota失败后，并检测最后退出运输模式是云端发送的指令&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry x="0.0096" relative="1" as="geometry">
+            <mxPoint x="242" y="783" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="273" y="783" />
+              <mxPoint x="273" y="826" />
+            </Array>
+            <mxPoint x="243" y="826" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-49" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1005" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="228" y="1005" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-50" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="530" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-232" y="530" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="232" y="770" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-56" value="APP/SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="610" y="41" width="140" height="1019" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8xaujFKfSYU02KAGSXF0-56">
+          <mxGeometry x="65" y="149" width="10" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-59" value="APP-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400" y="41" width="140" height="1019" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8xaujFKfSYU02KAGSXF0-59">
+          <mxGeometry x="65" y="143" width="10" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-62" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="218" as="sourcePoint" />
+            <mxPoint x="670" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-63" value="车辆运输模式&lt;br&gt;进入、退出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8xaujFKfSYU02KAGSXF0-62">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-64" value="返回" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="280" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="672" y="280" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xaujFKfSYU02KAGSXF0-66" value="进入运输模式" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="850" width="1020" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

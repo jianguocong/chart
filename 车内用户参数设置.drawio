@@ -1,0 +1,242 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="第 1 页" id="_HwajRiNFtwBDf4wMEr2">
+    <mxGraphModel dx="4094" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UPgxkfS9yM4EmyFrJnMO-32" value="蓝牙通道" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1420" y="150" width="1310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-53" value="车控SDK / APP&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-1310" y="71" width="100" height="759" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nmwjDRBDZmFMRTuQTV6h-53" vertex="1">
+          <mxGeometry x="45" y="97" width="10" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-53">
+          <mxGeometry x="45" y="317" width="10" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-57" value="App-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-1061" y="70" width="140" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="nmwjDRBDZmFMRTuQTV6h-57" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-189" y="188" as="sourcePoint" />
+            <mxPoint x="63" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-12" value="2、通知云端保存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="-O52o67HVaWZJBNa8ZWJ-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-57">
+          <mxGeometry x="63" y="595" width="10" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-57">
+          <mxGeometry x="66" y="178" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;3、参数入库&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="nmwjDRBDZmFMRTuQTV6h-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79" y="193" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="109" y="193" />
+              <mxPoint x="109" y="223" />
+            </Array>
+            <mxPoint x="79" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-59" value="VehicleOEM-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-612" y="70" width="140" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-121" value="15、MQTT：通知云端保存" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="nmwjDRBDZmFMRTuQTV6h-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="592" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="79" y="592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-3" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BfontSize%3D12%3BstartSize%3D8%3BendSize%3D8%3Bcurved%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-408.5%22%20y%3D%22144%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22470%22%20y%3D%22144%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%221%E3%80%81%E8%93%9D%E7%89%99%E9%80%9A%E9%81%93%E8%AE%BE%E7%BD%AE%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D12%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22-0.0246%22%20y%3D%221%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-59">
+          <mxGeometry x="66" y="582" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-62" value="Vehicle" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-372" y="70" width="140" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-62">
+          <mxGeometry x="65" y="90" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-62">
+          <mxGeometry x="66" y="348" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="nmwjDRBDZmFMRTuQTV6h-62">
+          <mxGeometry x="66" y="542" width="10" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="nmwjDRBDZmFMRTuQTV6h-106" value="MQTT：返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0057" relative="1" as="geometry">
+            <mxPoint x="-309" y="744" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-442" y="744" />
+            </Array>
+            <mxPoint x="-532" y="744" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1" target="nmwjDRBDZmFMRTuQTV6h-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1255.5" y="174" as="sourcePoint" />
+            <mxPoint x="-530" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-8" value="1、蓝牙通道设置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="-O52o67HVaWZJBNa8ZWJ-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-O52o67HVaWZJBNa8ZWJ-21" value="指令发送成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1253" y="308" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-1003" y="308" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-2" value="设置参数" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-297" y="183" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-262" y="183" />
+              <mxPoint x="-262" y="213" />
+            </Array>
+            <mxPoint x="-297" y="213" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;5、参数入库&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-985" y="689" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-955" y="689" />
+              <mxPoint x="-955" y="719" />
+            </Array>
+            <mxPoint x="-985" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-15" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="nmwjDRBDZmFMRTuQTV6h-59">
+          <mxGeometry x="0.0057" relative="1" as="geometry">
+            <mxPoint x="-763" y="732" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-896" y="732" />
+            </Array>
+            <mxPoint x="-986" y="732" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="QJwY69EIA956024NVQTc-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1253.5" y="408" as="sourcePoint" />
+            <mxPoint x="-850.5" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-22" value="10、4G通道参数设置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="QJwY69EIA956024NVQTc-21">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-535" y="425" as="sourcePoint" />
+            <mxPoint x="-309" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-29" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;12、4G透传通道&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QJwY69EIA956024NVQTc-24">
+          <mxGeometry x="-0.0531" y="-3" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="QJwY69EIA956024NVQTc-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="418" as="sourcePoint" />
+            <mxPoint x="-528" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-28" value="11、4G透传通道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="QJwY69EIA956024NVQTc-27">
+          <mxGeometry x="-0.0246" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-31" value="13、设置参数" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-294" y="433" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-259" y="433" />
+              <mxPoint x="-259" y="463" />
+            </Array>
+            <mxPoint x="-294" y="463" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-32" value="MQTT：返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-535" y="478" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-311" y="478" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-33" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-751" y="505.32" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-550" y="505" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-34" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QJwY69EIA956024NVQTc-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1257" y="518" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-991.5" y="518" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-35" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="nmwjDRBDZmFMRTuQTV6h-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1250" y="224" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-530" y="224" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-36" value="4G通道&lt;br&gt;(透传通道)" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="362" width="1310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-38" value="车辆通知云端保存" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="590" width="1310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-39" value="14、用户参数&lt;br&gt;设置成功" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-291" y="622" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-256" y="622" />
+              <mxPoint x="-256" y="652" />
+            </Array>
+            <mxPoint x="-291" y="652" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-47" value="DeviceOEM-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-827" y="70" width="140" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QJwY69EIA956024NVQTc-47">
+          <mxGeometry x="65" y="328.5" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-26" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BfontSize%3D12%3BstartSize%3D8%3BendSize%3D8%3Bcurved%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-408.5%22%20y%3D%22144%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22470%22%20y%3D%22144%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%221%E3%80%81%E8%93%9D%E7%89%99%E9%80%9A%E9%81%93%E8%AE%BE%E7%BD%AE%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D12%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22-0.0246%22%20y%3D%221%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-547" y="402.5" width="10" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwY69EIA956024NVQTc-51" value="16、通知云端保存" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="nmwjDRBDZmFMRTuQTV6h-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-762" y="672" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="-980" y="672" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

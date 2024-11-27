@@ -1,0 +1,138 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.8.8">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="3164" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="SDK、SE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-473" y="40" width="100" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="68" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="45" y="137" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-1" value="DeviceOEM-Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="60" y="40" width="140" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="fJ_9bbSh1yOLhhSjH3SS-1" vertex="1">
+          <mxGeometry x="65" y="191" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="fJ_9bbSh1yOLhhSjH3SS-1" vertex="1">
+          <mxGeometry x="65" y="377" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-45" value="6、&lt;div&gt;使用device_cert做验证&lt;div&gt;验证是否防重复请求&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="fJ_9bbSh1yOLhhSjH3SS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="397" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="105" y="397" />
+              <mxPoint x="105" y="427" />
+            </Array>
+            <mxPoint x="75" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-413" y="243" as="sourcePoint" />
+            <mxPoint x="122.5" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-8" value="2、&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;device_cert&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fJ_9bbSh1yOLhhSjH3SS-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-26" value="&lt;div&gt;3、验证device_cert，验签通过，保存当前设备的device_cert&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="258" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="165" y="258" />
+              <mxPoint x="165" y="288" />
+            </Array>
+            <mxPoint x="135" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-29" value="0、预埋deviceOEM_cert、se_SK" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-413" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-383" y="120" />
+              <mxPoint x="-383" y="150" />
+            </Array>
+            <mxPoint x="-413" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-48" value="安全协商生成token" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="100" width="1090" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-49" value="token、使用deviceOEM_SK对 token 进行签名" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0019" y="-1" relative="1" as="geometry">
+            <mxPoint x="-416.5" y="298" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="117" y="297.5" as="sourcePoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-429" y="417" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-2" value="1、设备生成deviceSK、device_cert" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-419" y="187" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-389" y="187" />
+              <mxPoint x="-389" y="217" />
+            </Array>
+            <mxPoint x="-419" y="217" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-5" value="4、使用deviceOEM_cert验签&lt;div&gt;保存 token&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-419" y="327" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-389" y="327" />
+              <mxPoint x="-389" y="357" />
+            </Array>
+            <mxPoint x="-419" y="357" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-414" y="427" as="sourcePoint" />
+            <mxPoint x="121.5" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-7" value="5、使用deviceSK对https请求做业务签名的Signature、防重放的nonce 和 timestamp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6urikSooPa-n3jXc9FV-6">
+          <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-8" value="7、处理业务逻辑... ..." style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="497" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="166" y="497" />
+              <mxPoint x="166" y="527" />
+            </Array>
+            <mxPoint x="136" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-9" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.9;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fJ_9bbSh1yOLhhSjH3SS-53">
+          <mxGeometry x="0.0019" y="-1" relative="1" as="geometry">
+            <mxPoint x="-406.5" y="547.5" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="127" y="547" as="sourcePoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6urikSooPa-n3jXc9FV-11" value="协商后的业务请求" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="398" width="1090" height="192" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
