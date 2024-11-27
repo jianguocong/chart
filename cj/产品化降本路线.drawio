@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="kQm1WyOccjyHnlNSDJr9" name="第 1 页">
+    <mxGraphModel dx="574" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=8;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-3" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="243" y="60.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-4" value="三方的模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=8;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-6" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="236" y="193.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-7" value="三方的模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-8" value="标准化模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="194.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=8;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-10" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="236" y="360.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-11" value="三方的模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-12" value="标准化模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="yK7P3pugAWHu_ZcFfTPJ-199" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;第一阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="180" y="10" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;第二阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;第三阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-15" value="低代码平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-16" value="简单业务模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="410.00157894736844" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=8;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-19" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="236" y="530.0015789473684" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-21" value="标准化模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530.0015789473684" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-22" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;第四阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="484" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-23" value="低代码平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="602.6315789473684" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-24" value="简单业务模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=8;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="236" y="580.0015789473684" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-26" value="非标的模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="630.0015789473684" width="64" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-27" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#6E6E6E;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ygg8zrWHggTHg3LK0dkb-15" target="ygg8zrWHggTHg3LK0dkb-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="448.69" as="sourcePoint" />
+            <mxPoint x="240" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-28" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=0.379;exitDx=0;exitDy=0;strokeColor=#6E6E6E;curved=0;exitPerimeter=0;" edge="1" parent="1" source="ygg8zrWHggTHg3LK0dkb-23" target="ygg8zrWHggTHg3LK0dkb-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="593.49" as="sourcePoint" />
+            <mxPoint x="239" y="593.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygg8zrWHggTHg3LK0dkb-29" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#6E6E6E;curved=0;" edge="1" parent="1" source="ygg8zrWHggTHg3LK0dkb-23" target="ygg8zrWHggTHg3LK0dkb-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="620" as="sourcePoint" />
+            <mxPoint x="215" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
