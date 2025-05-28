@@ -1,0 +1,209 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="2916" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="jenkins UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-730" y="40" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="69" width="10" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="自有测试环境" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-391" y="40" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="45" y="216" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="3、推送docker镜像" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-477.49999999999955" y="222" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-582" y="222" />
+            </Array>
+            <mxPoint x="-672" y="222" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-1" value="自有生产环境" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="140" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="fJ_9bbSh1yOLhhSjH3SS-1" vertex="1">
+          <mxGeometry x="65" y="693" width="10" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fJ_9bbSh1yOLhhSjH3SS-1">
+          <mxGeometry x="65" y="360" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-3" value="一汽UAT环境" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="426" y="40" width="140" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fJ_9bbSh1yOLhhSjH3SS-3">
+          <mxGeometry x="64" y="693" width="10" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-16" value="&lt;div&gt;1、配置需要发布的应用&lt;/div&gt;&lt;div&gt;2、检测docker仓库中是否有镜像&lt;/div&gt;&lt;div&gt;3、如果不存在镜像：根据规则去cos下载镜像文件&lt;/div&gt;&lt;div&gt;4、下载cos后，上传docker仓库&lt;/div&gt;&lt;div&gt;5、kubectl发布应用&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="fJ_9bbSh1yOLhhSjH3SS-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="81" y="705" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="111" y="705" />
+              <mxPoint x="111" y="782" />
+            </Array>
+            <mxPoint x="78" y="782" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-5" value="一汽prod环境" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="587" y="40" width="140" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fJ_9bbSh1yOLhhSjH3SS-5">
+          <mxGeometry x="63" y="883" width="10" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-18" value="&lt;div&gt;1、配置需要发布的应用&lt;/div&gt;&lt;div&gt;2、检测docker仓库中是否有镜像&lt;/div&gt;&lt;div&gt;3、如果不存在镜像：根据规则去cos下载镜像文件&lt;/div&gt;&lt;div&gt;4、下载cos后，上传docker仓库&lt;/div&gt;&lt;div&gt;5、kubectl发布应用&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="fJ_9bbSh1yOLhhSjH3SS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="895" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="895" />
+              <mxPoint x="110" y="972" />
+            </Array>
+            <mxPoint x="77" y="972" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-26" value="&lt;div&gt;1、配置需要发布的应用&lt;/div&gt;&lt;div&gt;2、检测docker仓库中是否有镜像&lt;/div&gt;&lt;div&gt;3、如果不存在镜像：根据规则去cos下载镜像文件&lt;/div&gt;&lt;div&gt;4、下载cos后，上传docker仓库&lt;/div&gt;&lt;div&gt;5、kubectl发布应用&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152" y="753" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="182" y="753" />
+              <mxPoint x="182" y="830" />
+            </Array>
+            <mxPoint x="149" y="830" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-28" value="CI" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="100" width="1640" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-48" value="上传cos" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="346" width="1640" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-1" value="COS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="40" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="r3duofzR93x9oBW93Lzq-1">
+          <mxGeometry x="45" y="316" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="r3duofzR93x9oBW93Lzq-1">
+          <mxGeometry x="45" y="418" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="r3duofzR93x9oBW93Lzq-1">
+          <mxGeometry x="45" y="580" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-4" value="一汽 docker 仓库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="306" y="40" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-7" value="自有生产 docker 仓库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="40" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="r3duofzR93x9oBW93Lzq-7">
+          <mxGeometry x="45" y="501" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-10" value="测试 docker 仓库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="40" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="r3duofzR93x9oBW93Lzq-10">
+          <mxGeometry x="45" y="162" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ_9bbSh1yOLhhSjH3SS-29" value="1、git pull拉业务代码&lt;div&gt;2、mvn打包&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1" source="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-670" y="88" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-640" y="118" />
+              <mxPoint x="-640" y="162" />
+            </Array>
+            <mxPoint x="-675" y="161.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-13" value="4、kubectl 发布应用" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350" y="272" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-583" y="272" />
+            </Array>
+            <mxPoint x="-673" y="272" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-14" value="5、将镜像推送到cos中" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="386" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-586" y="386" />
+            </Array>
+            <mxPoint x="-676" y="386" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-27" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136.50000000000045" y="510.3333333333335" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-163" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-28" value="1、检测沈阳镜像是否在cos" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-164" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="106" y="460" />
+            </Array>
+            <mxPoint x="135.50000000000045" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-30" value="4、下载沈阳镜像" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6" y="560" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="131.25" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-31" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137" y="590" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="7" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-33" value="1、检测沈阳镜像是否在cos" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="620" />
+            </Array>
+            <mxPoint x="134" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-34" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137" y="660" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="-162" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-37" value="&lt;div&gt;1、配置需要发布的应用&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry x="0.0039" relative="1" as="geometry">
+            <mxPoint x="150.36577181208054" y="410.00671140939596" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="410" />
+              <mxPoint x="190" y="440" />
+            </Array>
+            <mxPoint x="150.36577181208054" y="440.00671140939596" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-38" value="CD" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;sketch=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="710" width="1640" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="r3duofzR93x9oBW93Lzq-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-685" y="360" width="10" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

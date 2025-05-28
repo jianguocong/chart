@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="26.0.5">
+  <diagram name="第 1 页" id="Nil3oOydYyS62m86hFxe">
+    <mxGraphModel dx="2149" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q9B4hM80-n2rApLYdt7p-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;UI层 / SDK层&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="212" y="120" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="q9B4hM80-n2rApLYdt7p-5" vertex="1">
+          <mxGeometry x="45" y="90" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="q9B4hM80-n2rApLYdt7p-5" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;云端&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="452" y="120" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="q9B4hM80-n2rApLYdt7p-6" vertex="1">
+          <mxGeometry x="45" y="94" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="q9B4hM80-n2rApLYdt7p-6" vertex="1">
+          <mxGeometry x="45" y="206" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;车端&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="682" y="120" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="q9B4hM80-n2rApLYdt7p-7" vertex="1">
+          <mxGeometry x="45" y="110" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;车控&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="q9B4hM80-n2rApLYdt7p-7" source="q9B4hM80-n2rApLYdt7p-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-166" y="116" as="sourcePoint" />
+            <mxPoint x="45" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="q9B4hM80-n2rApLYdt7p-7" vertex="1">
+          <mxGeometry x="45" y="248" width="10" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;车控&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="q9B4hM80-n2rApLYdt7p-13" target="q9B4hM80-n2rApLYdt7p-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272" y="219" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ack&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="q9B4hM80-n2rApLYdt7p-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267" y="289" as="targetPoint" />
+            <mxPoint x="492" y="289" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ack&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" target="q9B4hM80-n2rApLYdt7p-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="272" as="targetPoint" />
+            <mxPoint x="727" y="272" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;车控结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="727.33" y="330" as="sourcePoint" />
+            <mxPoint x="506.6666666666665" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;车控结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="497.33000000000004" y="340" as="sourcePoint" />
+            <mxPoint x="266.6666666666665" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="497" y="375" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;车况&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="727.33" y="380" as="sourcePoint" />
+            <mxPoint x="506.6666666666665" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;车况&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="497.33000000000004" y="390" as="sourcePoint" />
+            <mxPoint x="266.6666666666665" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="257" y="380" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-31" value="" style="line;strokeWidth=1;rotatable=0;dashed=1;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="154" y="284" width="96" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-33" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="q9B4hM80-n2rApLYdt7p-35" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="182" y="240" as="sourcePoint" />
+            <mxPoint x="182" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-34" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="q9B4hM80-n2rApLYdt7p-35" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="181.9" y="269" as="sourcePoint" />
+            <mxPoint x="181.9" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-35" value="ack时延" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="152" y="242" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-36" value="" style="line;strokeWidth=1;rotatable=0;dashed=1;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="62" y="214" width="188" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-37" value="" style="line;strokeWidth=1;rotatable=0;dashed=1;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="64" y="335" width="186" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-38" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="q9B4hM80-n2rApLYdt7p-40" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="92" y="240" as="sourcePoint" />
+            <mxPoint x="92" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-39" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="q9B4hM80-n2rApLYdt7p-40" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="91.9" y="320" as="sourcePoint" />
+            <mxPoint x="91.9" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-40" value="车控时延" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="62" y="264" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-49" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;UI层 / SDK层&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;1、开始车控&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、收到车控ack&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3、收到车控结果&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;4、收到车况&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="124" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q9B4hM80-n2rApLYdt7p-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;云端&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;1、&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;收到车控ack&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、收到车控结果&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3、收到车况&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="290" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

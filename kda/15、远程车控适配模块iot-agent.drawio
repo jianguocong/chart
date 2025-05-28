@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="第 1 页" id="gQdqMTooWAIrieCzeDNg">
+    <mxGraphModel dx="1430" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v0FakbR5b57ZIDLpyObX-19" value="" style="group;fillColor=#CCFFCC;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="310" width="460" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-17" value="车云通道" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=none;fillColor=none;" vertex="1" parent="v0FakbR5b57ZIDLpyObX-19">
+          <mxGeometry width="72.15686274509802" height="22.340425531914892" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-10" value="" style="group;fillColor=#ffe6cc;strokeColor=none;labelBackgroundColor=#ABAEFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="740" y="350" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-9" value="iot平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="v0FakbR5b57ZIDLpyObX-10">
+          <mxGeometry width="60" height="18.620689655172413" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;腾讯云_物联网平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v0FakbR5b57ZIDLpyObX-10">
+          <mxGeometry x="30" y="89.67857142857144" width="90" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;aliyun_物联网平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v0FakbR5b57ZIDLpyObX-10">
+          <mxGeometry x="30" y="38.57142857142857" width="90" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;主机厂_物联网平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v0FakbR5b57ZIDLpyObX-10">
+          <mxGeometry x="30" y="146.08928571428575" width="90" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-13" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;其他_物联网平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v0FakbR5b57ZIDLpyObX-10">
+          <mxGeometry x="30" y="199.6071428571429" width="90" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="Cvw1Gns9jHeJLgj6o-cQ-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" edge="1" target="v0FakbR5b57ZIDLpyObX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="500" as="sourcePoint" />
+            <mxPoint x="1076" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px-JgNq_MLMvzBA94B2m-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;vehicle-oem&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="479" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-1" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;iot-agent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="479" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;vehicle&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-11" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v0FakbR5b57ZIDLpyObX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="650" as="sourcePoint" />
+            <mxPoint x="740" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-12" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Px-JgNq_MLMvzBA94B2m-1" target="v0FakbR5b57ZIDLpyObX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="498.65999999999997" as="sourcePoint" />
+            <mxPoint x="533" y="498.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-14" value="iot-agent主要职责：&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 与各种物联网平台适配，屏蔽掉物联网平台差异，对vehicle-oem提供一致接口行为，vehicle-oem不感知后端的变化。&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v0FakbR5b57ZIDLpyObX-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.383;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v0FakbR5b57ZIDLpyObX-1" target="v0FakbR5b57ZIDLpyObX-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="340" as="sourcePoint" />
+            <mxPoint x="1020" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
